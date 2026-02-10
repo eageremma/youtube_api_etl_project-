@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "abc123",
+      "statistics": {
+        "viewCount": "120345",
+        "likeCount": "5600",
+        "commentCount": "432"
+      }
+    }
+  ]
+}
