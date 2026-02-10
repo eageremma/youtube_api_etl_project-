@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": {
+        "videoId": "abc123"
+      },
+      "snippet": {
+        "title": "Funny Cats Compilation"
+      }
+    }
+  ]
+}
